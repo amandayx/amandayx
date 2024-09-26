@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=amandayufeng&show_icons=true&theme=material-palenight)
+![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=amandayx&show_icons=true&theme=material-palenight)
 <br>
 Ok we be trying here.... also privates o((>ω< ))o
